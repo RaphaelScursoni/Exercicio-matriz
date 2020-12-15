@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\bin\Debug\netcoreapp3.1\exercicio-matriz.exe
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\bin\Debug\netcoreapp3.1\exercicio-matriz.deps.json
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\bin\Debug\netcoreapp3.1\exercicio-matriz.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\bin\Debug\netcoreapp3.1\exercicio-matriz.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\bin\Debug\netcoreapp3.1\exercicio-matriz.dll
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\bin\Debug\netcoreapp3.1\exercicio-matriz.pdb
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.dll
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.pdb
+C:\Users\convencaoinfo10\source\repos\exercicio-matriz\exercicio-matriz\obj\Debug\netcoreapp3.1\exercicio-matriz.genruntimeconfig.cache
